@@ -53,3 +53,6 @@ The Looker Studio dashboard provides insights through:
 
 ## **Conclusion**
 Based on the data analysis, Zomato’s major issues stem from **delivery inefficiencies, payment failures, and inconsistent restaurant performance**. By optimizing **delivery operations, enhancing customer engagement, and promoting efficient payment methods**, Zomato can significantly improve **customer retention, order fulfillment rates, and overall business performance**. Future enhancements can include **predictive analytics for demand forecasting** and **AI-based delivery optimization**.
+
+**Dashboard**
+[https://lookerstudio.google.com/reporting/9a293dc1-c975-408d-919f-cb980616dacd/page/CujCE]
